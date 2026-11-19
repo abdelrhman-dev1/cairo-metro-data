@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-11-19",
+  "version": 2,
+  "updated": "2026-11-20",
   "message": { "en": "", "ar": "" },
   "tickets": [
     { "max": 9, "price": 10 },
@@ -9,7 +9,8 @@
     { "max": 39, "price": 20 }
   ],
   "vip_plans": [
-    { "name_en": "VIP Monthly", "name_ar": "اشتراك VIP شهري", "discount_pct": 30, "rides_per_day": 2, "days": 30 }
+    { "name_en": "VIP Monthly", "name_ar": "اشتراك VIP شهري", "discount_pct": 30, "rides_per_day": 2, "days": 30 },
+    { "name_en": "VIP Quarterly", "name_ar": "اشتراك VIP ربع سنوي", "discount_pct": 40, "rides_per_day": 2, "days": 90 }
   ],
   "closed_stations": []
 }
